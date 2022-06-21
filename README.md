@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliveiraalexis
 - 👀 I’m interested in software programming, quality and testing
-- 🌱 I’m currently learning software test
+- 🌱 I’m currently working and learning software testing
 - 📫 Meet me here >> www.linkedin.com/in/alexisoliveira
 
 <!---
