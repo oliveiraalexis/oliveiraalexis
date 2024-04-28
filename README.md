@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aléxis
-- 👀 I’m a fullstack software developer
+- 👀 I’m a Fullstack Software Developer
 - 🌱 I’m currently creating fullstack mobile projects and working in a company as a Software Test Analyst
 - 📫 Meet me here >> www.linkedin.com/in/alexisoliveira
 
