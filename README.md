@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aléxis
-- 👀 I’m interested in software programming and testing
-- 🌱 I’m currently working as a Software Test Analyst and learning React Native
+- 👀 I’m a fullstack software developer
+- 🌱 I’m currently creating fullstack mobile projects and working in a company as a Software Test Analyst
 - 📫 Meet me here >> www.linkedin.com/in/alexisoliveira
 
 <!---
