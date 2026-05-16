@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aléxis
-- 👀 I’m a Fullstack Software Developer
-- 🌱 I’m currently creating fullstack mobile projects and working in a company as a Software Test Analyst
+- 👀 I’m a ISTQB CTFL certified QA Engineer, experienced in front-end and back-end development, as well as web and mobile test automation
 - 📫 Meet me here >> www.linkedin.com/in/alexisoliveira
 
 <!---
