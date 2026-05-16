@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aléxis
-- 👀 I’m a ISTQB CTFL certified QA Engineer, experienced in front-end and back-end development, as well as web and mobile test automation
+- 👀 I’m a ISTQB CTFL certified QA Engineer with experience in front-end and back-end development, as well as web and mobile test automation.
 - 📫 Meet me here >> www.linkedin.com/in/alexisoliveira
 
 <!---
